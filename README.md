@@ -33,7 +33,14 @@ Q. What is Intent? Write down types of Intent and types of Intent Action. Create
 
 
 -> **Output :-**
+
+
+
 ![light theme ](https://github.com/Harshil-Ghadiya/MAD_Practical-5_21012021031/assets/122811629/2ed151a0-b45b-48e7-b6ac-0e26870adaed)
+
+
+
+
 ![Dark theme](https://github.com/Harshil-Ghadiya/MAD_Practical-5_21012021031/assets/122811629/601e9de7-d80a-47bd-9508-57a2f6bad322)
 
 
